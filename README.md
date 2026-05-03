@@ -15,13 +15,3 @@ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 7. Login gagal username berisi spasi
 8. Login gagal password berisi spasi
 9. Login gagal password berisi huruf kapital
-
-## Tech Stack
-- Visual Studio Code
-- Cypress
-- JavaScript
-
-## Cara Menjalankan
-```bash
-npm install
-npx cypress open
