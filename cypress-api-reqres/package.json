@@ -1,0 +1,22 @@
+{
+  "name": "cypress-api-reqres",
+  "version": "1.0.0",
+  "description": "API automation testing with Cypress using Reqres API",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "api-testing",
+    "reqres",
+    "qa-automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}
